@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">UGit App 3</string>
+
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="tab_3">Repository</string>
+
+    <string name="search_hint">Input Word</string>
+    <string name="change_language">change_language</string>
+
+    <string name="following">%1d%2sFollowing</string>
+    <string name="followers">%1d%2sFollowers</string>
+    <string name="profile">Profile</string>
+    <string name="keterangan">Search for github users</string>
+    <string name="company">Company %1s</string>
+    <string name="lokasi">Lokasi %1s</string>
+    <string name="repository">%1s%2sRepository</string>
+
+    <string name="first_share">Share User Github
+        From Apllication Ugit, with username %1s</string>
+    <string name="share">Share</string>
+    <string name="error" />
+    <string name="signallow">SignalLow</string>
+    <string name="empty">Empty</string>
+    <string name="search">search</string>
+    <string name="change_language_settings">change_language_settings</string>
+
+    <string name="click_see_list_favorite">click_see_list_favorite</string>
+    <string name="refresh">refresh</string>
+    <string name="empty_text">empty_text</string>
+    <string name="reminder">Reminder</string>
+
+    <string name="favorite">List Favorite</string>
+    <string name="toast_on">Alarm On</string>
+    <string name="toast_off">Alarm Off</string>
+
+    <string name="content_reminder">Open Ugit App 3</string>
+    <string name="favorite_empty" />
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="repository_empty">repository_empty</string>
+    <string name="follow_empty" />
+
+
+
+</resources>

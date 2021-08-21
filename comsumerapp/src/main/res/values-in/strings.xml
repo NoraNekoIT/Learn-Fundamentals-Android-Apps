@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Comsumer App Favorit</string>
+    <string name="profile">foto</string>
+    <string name="consumer_empty">Daftar Favorit Kosong,
+        Pastikan menambahkan user favorite di app Ugit,
+
+    </string>
+</resources>

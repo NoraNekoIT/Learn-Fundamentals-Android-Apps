@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Comsumer App Favorite</string>
+    <string name="profile">Photo</string>
+    <string name="consumer_empty">Favorite Empty List,
+          Make sure to add user favorites in Ugit app,</string>
+</resources>

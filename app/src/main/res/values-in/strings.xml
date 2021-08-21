@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Ugit App 3</string>
+
+    <string name="tab_1">Pengikut</string>
+    <string name="tab_2">Mengikuti</string>
+    <string name="tab_3">Penyimpanan</string>
+
+    <string name="search_hint">Masukkan Kata</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="following">%1d%2sMengikuti</string>
+    <string name="followers">%1d%2sPengikut</string>
+    <string name="profile">Foto</string>
+    <string name="keterangan">Pengguna KOSONG , Cari pengguna github</string>
+    <string name="company">Perusahaan %1s</string>
+    <string name="lokasi">Lokasi %1s</string>
+    <string name="repository">%1s2%sPenyimpanan</string>
+    <string name="first_share">Bagikan Pengguna Github dari Aplikasi Ugit
+    ,dengan Username %1s</string>
+    <string name="share">Bagikan Pengguna Github ke : </string>
+    <string name="error" >Periksa lagi Koneksimu</string>
+    <string name="signallow">Sinyal Lemah</string>
+    <string name="empty">Kosong</string>
+    <string name="search">search</string>
+    <string name="change_language_settings">change_language_settings</string>
+    <string name="click_see_list_favorite">Yuk Buka Aplikasi Ugit</string>
+    <string name="refresh">Segarkan </string>
+    <string name="empty_text">Favorit Kosong</string>
+    <string name="reminder">Pengingat Pukul 09.00 pagi</string>
+
+    <string name="favorite">Daftar Favorit</string>
+    <string name="toast_on">Pengingat Hidup</string>
+    <string name="toast_off">Pengingat Mati</string>
+
+    <string name="content_reminder">Buka Ugit App 3</string>
+    <string name="favorite_empty" >Daftar Favorit Kosong,
+        Pastikan menambahkan user favorite</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="repository_empty">Penyimpanan Kosong</string>
+    <string name="follow_empty" >Kosong</string>
+
+</resources>

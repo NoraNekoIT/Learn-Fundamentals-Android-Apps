@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Comsumer App Favorite</string>
+    <string name="profile">Profile</string>
+    <string name="consumer_empty">consumer_empty</string>
+</resources>

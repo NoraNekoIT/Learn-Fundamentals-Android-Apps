@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/tv_stack_favorite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:background="@color/teal_200"
+        android:textColor="@color/white"
+        tools:text="Antonius Bun Wijaya"
+        />
+    <ImageView
+        android:id="@+id/iv_stack_Favorite"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:background="@color/purple_200"
+        android:contentDescription="@string/profile"
+        tools:srcCompat="@drawable/ic_people"/>
+
+
+</LinearLayout>

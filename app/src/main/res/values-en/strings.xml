@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">UGit App 3</string>
+
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="tab_3">Repository</string>
+
+    <string name="search_hint">Input Word</string>
+    <string name="change_language">Choose Language</string>
+    <string name="following">%1d2%sFollowing</string>
+    <string name="followers">%1d2%sFollowers</string>
+    <string name="profile">Photo</string>
+    <string name="keterangan">EMPTY User , find a github user</string>
+    <string name="company">Company %1s</string>
+    <string name="lokasi">Location %1s</string>
+    <string name="repository">%1s%2sRepository</string>
+    <string name="first_share">Share User Github
+        From Apllication Ugit, with username %1s</string>
+    <string name="share">Share User Github to : </string>
+    <string name="error" >Check Your Connection</string>
+    <string name="signallow">Signal Low</string>
+    <string name="empty">Empty</string>
+    <string name="search">search</string>
+    <string name="change_language_settings">change_language_settings</string>
+    <string name="click_see_list_favorite">click for see Ugit</string>
+    <string name="refresh">refresh banner</string>
+    <string name="empty_text">empty favorite</string>
+    <string name="reminder">Reminder at 09.00 am</string>
+
+    <string name="favorite">List Favorite</string>
+    <string name="toast_on">Alarm On</string>
+    <string name="toast_off">Alarm Off</string>
+
+    <string name="content_reminder">Open Ugit App 3</string>
+    <string name="favorite_empty" >Favorite Empty List,
+          Make sure to add user favorite</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="repository_empty">Empty Repository</string>
+    <string name="follow_empty" >Empty</string>
+
+</resources>
