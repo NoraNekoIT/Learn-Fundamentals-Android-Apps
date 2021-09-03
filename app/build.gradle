@@ -16,6 +16,7 @@ android {
         versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
         buildConfigField("String","GITHUB_TOKEN",'"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"')
     }
 
@@ -54,6 +55,8 @@ dependencies {
     implementation 'de.hdodenhof:circleimageview:3.1.0'
     implementation "androidx.viewpager2:viewpager2:1.0.0"
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+
+    implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.2.0'
 
 
     def roomVersion = '2.3.0'

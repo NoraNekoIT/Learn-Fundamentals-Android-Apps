@@ -17,11 +17,6 @@ import com.noranekoit.bfaausergithub3.ui.detail.DetailUserGithubActivity
 
 class RepositoryFragment : Fragment() {
 
-
-
-
-
-
     private var _binding : FragmentRepositoryBinding? = null
     private val binding get() = _binding!!
 

@@ -16,10 +16,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CobaUserGithubApp2">
+
+
         <service
-            android:name="com.noranekoit.bfaausergithub3.ui.widget.StackWidgetService"
-            android:permission="android.permission.BIND_REMOTEVIEWS"
-            />
+            android:name=".ui.widget.StackWidgetService"
+            android:permission="android.permission.BIND_REMOTEVIEWS" />
 
         <receiver
             android:name=".ui.widget.StackFavoriteWidget"
@@ -43,14 +44,12 @@
         <receiver
             android:name=".receiver.AlarmReceiver"
             android:enabled="true"
-            android:exported="false"
-           />
+            android:exported="false" />
 
         <activity
             android:name=".ui.favorit.FavoriteActivity"
             android:exported="true"
-            android:parentActivityName=".ui.main.MainActivity"
-            />
+            android:parentActivityName=".ui.main.MainActivity" />
         <activity
             android:name=".ui.splash.SplashScreenActivity"
             android:exported="true"

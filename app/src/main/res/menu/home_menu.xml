@@ -12,7 +12,7 @@
 
     <item
         android:id="@+id/favorite_menu"
-        android:title="Favorite"
+        android:title="@string/favorite"
         android:icon="@drawable/ic_favorite_menu"
         app:showAsAction="always"/>
     <item

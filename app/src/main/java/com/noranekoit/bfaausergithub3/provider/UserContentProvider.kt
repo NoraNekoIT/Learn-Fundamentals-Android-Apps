@@ -28,9 +28,7 @@ class UserContentProvider : ContentProvider() {
     }
 
     override fun onCreate(): Boolean {
-       userDao = context?.let {
-           ctx -> UserDatabase.getDatabase(ctx)?.favoriteUserDao()
-       }!!
+        userDao = context?.let { UserDatabase.getDatabase(it)?.favoriteUserDao() } as FavoriteUserDao
         return false
     }
 

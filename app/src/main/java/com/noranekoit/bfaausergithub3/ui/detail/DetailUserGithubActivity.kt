@@ -8,6 +8,7 @@ import android.view.MenuItem
 import androidx.annotation.StringRes
 
 import androidx.lifecycle.ViewModelProvider
+import androidx.lifecycle.lifecycleScope
 import androidx.viewpager2.widget.ViewPager2
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions
@@ -69,7 +70,7 @@ class DetailUserGithubActivity : AppCompatActivity() {
         })
 
 
-        CoroutineScope(Dispatchers.IO).launch {
+        lifecycleScope.launch(Dispatchers.IO) {
             val count = githubViewModel.checkUser(id)
             withContext(Dispatchers.Main){
                 if (count != null){
